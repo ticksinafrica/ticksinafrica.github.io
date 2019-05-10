@@ -8,3 +8,9 @@ order: 2
 
 Aims of the project
 ...
+
+# this the big title
+## This is a subtitle
+
+- bullet1
+- bullet 2
