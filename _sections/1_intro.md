@@ -5,7 +5,5 @@ icon: fa-about
 order: 1
 ---
 
-## Our project: Ticks and tick borne diseases (TBDs) in Africa
-# Sveriges lantbruksuniversitet - Swedish University of Agricultural Sciences
-
-Our main goal is ....
+## **Ticks and Tick Borne Diseases (TBDs) in Africa**
+# The overall purpose of the project is to improve cattle health through increased understanding of the microbial community in cattle and ticks, by investigation of the microbial composition (microbiota) of ticks and how this affects transmission and disease development in cattle in Uganda.
