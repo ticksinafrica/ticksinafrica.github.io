@@ -18,7 +18,7 @@ order: 3
 
 **Dr. Lidia Chitimia-Dobler** - Bundeswehr Institute of Microbiology and University of Hohenheim, Department of Parasitology, Germany
 
-**Dr. John Pettersson** - Uppsala University, Department of Medical Biochemistry and Microbiology, Sweden
+**[Dr. John Pettersson](https://www.researchgate.net/profile/John_Pettersson)** - Uppsala University, Department of Medical Biochemistry and Microbiology, Sweden
 
 **[Dr. Juliette Hayer](https://www.slu.se/en/ew-cv/juliette-hayer/)** - Swedish University of Agricultural Sciences, Department of Animal Breeding and Genetics, Sweden
 
@@ -26,4 +26,4 @@ order: 3
 
 **[Dr. Giulio Grandi](https://www.slu.se/cv/giulio-grandi/)** - Swedish University of Agricultural Sciences, Biomedical Sciences and Veterinary Public Health, Sweden
 
-**Ass. professor Ingrid Hansson** - Swedish University of Agricultural Sciences, Biomedical Sciences and Veterinary Public Health, Sweden
+**[Ass. professor Ingrid Hansson](https://www.researchgate.net/profile/John_Pettersson)** - Swedish University of Agricultural Sciences, Biomedical Sciences and Veterinary Public Health, Sweden
