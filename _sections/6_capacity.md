@@ -21,3 +21,5 @@ MinION sequencing infrastructure have been set up at Uganda Virus Research Insti
 - PhD student Stephen Balinandi was admitted by graduate school at Makerere University in 2017.
 - A high school student from Sweden did a small research project in Oct 2017.
 - Master student Ivan Oulok was trained on examination of microscopical slides.
+- MSc: Mikael Peteri Brunbäck - Investigation of Crimean-Congo Hemorrhagic Fever Virus (CCHFV) in Hyalomma spp. ticks and evaluation of knowledge and practices related to ticks and CCHF among the Karamojong pastoralists in Moroto district, Uganda
+- MSc: Charles Semakula – Prevalence of Bunya viruses in ticks collected on cattle from Karamoja region in Uganda
